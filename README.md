@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá, eu sou Natanael de Sousa leite </h1>
 <h3 align = "center"> Desenvolvedor front-end, amante de café, fã de Javascript e SPA, curiosa em desempenho, especialista em @ rectangular. Atualmente apaixonado por RxJS e programação reativa. </h3>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=dexternatan" alt = "dexternatan" /> </ p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
 - Eu atualmente trabalho no Serpro [DSGOV] (https://dsgov.estaleiro.serpro.gov.br/)
 
