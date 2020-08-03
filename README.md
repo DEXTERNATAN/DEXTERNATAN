@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
-- Eu atualmente trabalho no Serpro [DSGOV](https://dsgov.estaleiro.serpro.gov.br/)
+- Eu atualmente trabalho no Serpro [SERPRO](https://www.serpro.gov.br/)
 
 - Atualmente estou aprendendo **ReactNative, ReactJS, Deno**
 
