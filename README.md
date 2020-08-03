@@ -22,9 +22,11 @@
 </p>
 
 <p align="center">
- <a href="https://twitter.com/exnatan" target="blank"> <img align="center" src="https://cdn.jsdelivr.net /npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/exnatan" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/" height="20" width="20" />
+ <a href="https://twitter.com/exnatan" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/exnatan" height="20" width="20" />
+ </a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/" height="20" width="20" />
  </a>
 <a href="https://medium.com/@natansl" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ natansl" height="20" width="20" /></a>
 </p>
