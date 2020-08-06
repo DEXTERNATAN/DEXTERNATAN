@@ -18,7 +18,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true" alt="dexternatan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true" alt="dexternatan" />
 </p>
 
 <p align="center">
