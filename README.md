@@ -19,7 +19,10 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true" alt="dexternatan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="dexternatan" />
 </p>
+
+
 
 <p align="center">
  <a href="https://twitter.com/exnatan" target="blank">
