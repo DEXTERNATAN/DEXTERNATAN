@@ -2,7 +2,7 @@
 
 <h1 align = "justify"> Olá, eu sou Natanael de Sousa leite </h1>
 <p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
-- Eu atualmente trabalho no Serpro [SERPRO](https://www.serpro.gov.br/)
+<p>Eu atualmente trabalho no Serpro [SERPRO](https://www.serpro.gov.br/)</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
 [![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natansl)
