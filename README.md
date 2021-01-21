@@ -15,7 +15,7 @@ I'm learning at the moment **ReactNative, ReactJS, Deno**
 [![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natansl@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/exnatan)](https://twitter.com/exnatan)
 
-## ⚡ Technologies
+## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -40,7 +40,7 @@ I'm learning at the moment **ReactNative, ReactJS, Deno**
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## :bar_chart: GitHub Stats
+## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
