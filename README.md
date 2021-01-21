@@ -1,11 +1,12 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
-<h1 align = "justify"> Olá, eu sou Natanael de Sousa leite </h1>
+
+<h1 align = "justify"> Hi 👋, I am Natanael</h1>
 <p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
 
-Eu atualmente trabalho no Serpro [SERPRO](https://www.serpro.gov.b)
+I currently work at Serpro [SERPRO](https://www.serpro.gov.b)
 
-Atualmente estou aprendendo **ReactNative, ReactJS, Deno**
+I'm learning at the moment **ReactNative, ReactJS, Deno**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
@@ -13,6 +14,7 @@ Atualmente estou aprendendo **ReactNative, ReactJS, Deno**
 [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl)
 [![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natansl@gmail.com)
 
+## ⚡ Technologies
 
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20 "height="20"/>
